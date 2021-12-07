@@ -1550,7 +1550,7 @@
 //#define AUTO_BED_LEVELING_LINEAR
 //#define AUTO_BED_LEVELING_BILINEAR                         // DIGA-Tech:
 //#define AUTO_BED_LEVELING_UBL                              // DIGA-Tech:
-//#define MESH_BED_LEVELING                                  // DIGA-Tech:
+#define MESH_BED_LEVELING                                  // DIGA-Tech:
 
 /**
  * Normally G28 leaves leveling disabled on completion. Enable one of
